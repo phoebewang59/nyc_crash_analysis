@@ -1,6 +1,6 @@
 # NYC Motor Vehicle Crash Analysis
 
-This repository presents an exploratory analysis of the [NYC OpenData Motor Vehicle Collisions – Crashes]([https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95) dataset. The objective is to identify the factors most associated with motor vehicle crashes in New York City and examine how these factors vary across **time** and **crash severity**. This project demonstrates skills in exploratory data analysis, data cleaning, visualization, and interpretation of large, real-world datasets (~2.1 million rows).
+This repository presents an exploratory analysis of the [NYC OpenData Motor Vehicle Collisions – Crashes](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95) dataset. The objective is to identify the factors most associated with motor vehicle crashes in New York City and examine how these factors vary across **time** and **crash severity**. This project demonstrates skills in exploratory data analysis, data cleaning, visualization, and interpretation of large, real-world datasets (~2.1 million rows).
 
 All analysis is contained in the notebook: [Transportation Data Science Project](notebooks/TDSP_Phoebe_Wang.ipynb)
 
