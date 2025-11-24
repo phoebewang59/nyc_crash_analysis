@@ -4,7 +4,6 @@ This repository presents an exploratory analysis of the **NYC OpenData Motor Veh
 
 All analysis is contained in the notebook: [Transportation Data Science Project](notebooks/TDSP_Phoebe_Wang.ipynb)
 
-https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data
 ---
 
 ## **Research Goals**
