@@ -24,10 +24,18 @@ This project uses:
 - **Severity classification logic** to evaluate outcomes  
 - **Exploratory analysis** to assess missingness and dataset quality  
 
-Visualizations include:
-- Frequency plots of contributing factors  
-- Hourly and weekly time-series patterns  
-- Pie charts comparing severity distributions  
+---
+## **Figures**
+
+<p float="left">
+  <img src="figures/top_ten_contributing_factors.png" width="430"/>
+  <img src="figures/crashes_per_hour.png" width="430"/>
+</p>
+
+<p float="left">
+  <img src="figures/crashes_by_days_of_week.png" width="430"/>
+  <img src="figures/crash_severity.png" width="430"/>
+</p>
 
 ---
 
