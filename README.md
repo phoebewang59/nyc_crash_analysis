@@ -42,7 +42,7 @@ This project uses:
 ## **Key Findings**
 
 - **Top contributing factors:**  
-  **Driver inattention/distraction**, **failure to yield right-of-way**, and **following too closely**.
+  Driver inattention/distraction, failure to yield right-of-way, and **following too closely.
   
 - **Time patterns:**  
   Distracted-driving crashes peak between **3–5 PM**, consistent with afternoon congestion.
